@@ -1,0 +1,28 @@
+{
+  "checked_at": "2026-08-28T20:45:00Z",
+  "pages": [
+    {
+      "name": "logan",
+      "path": "/book-now/logan",
+      "calendar_url": "https://api.leadconnectorhq.com/widget/booking/FEWBshrnoo20QqCyRlvP",
+      "desktop_screenshot": "logan-desktop.png",
+      "mobile_screenshot": "logan-mobile.png",
+      "horizontal_overflow": false,
+      "calendar_loaded": true
+    },
+    {
+      "name": "cole",
+      "path": "/book-now/cole",
+      "calendar_url": "https://api.leadconnectorhq.com/widget/booking/GJ950YnwhclAVQkjl4gg",
+      "desktop_screenshot": "cole-desktop.png",
+      "mobile_screenshot": "cole-mobile.png",
+      "horizontal_overflow": false,
+      "calendar_loaded": true
+    }
+  ],
+  "hard_fails": [],
+  "soft_fails": [
+    "Cole's source calendar is named 'Copy of Trucker Life Plan - Cole' inside LeadConnector."
+  ],
+  "verdict": "pass"
+}
