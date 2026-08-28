@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-28T20:22:00Z",
+  "checked_at": "2026-08-28T20:34:52Z",
   "page": "/book-now",
   "viewports": [
     {
@@ -15,7 +15,6 @@
       "width": 375,
       "height": 812,
       "screenshot": "mobile.png",
-      "calendar_screenshot": "mobile-calendar.png",
       "horizontal_overflow": false,
       "calendar_loaded": true
     }
